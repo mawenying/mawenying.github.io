@@ -4,7 +4,7 @@
   <title><![CDATA[文武人生]]></title>
   <link href="http://mawenying.github.io/atom.xml" rel="self"/>
   <link href="http://mawenying.github.io/"/>
-  <updated>2014-08-19T16:55:04+08:00</updated>
+  <updated>2014-08-19T17:02:00+08:00</updated>
   <id>http://mawenying.github.io/</id>
   <author>
     <name><![CDATA[马文英]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://mawenying.github.io/blog/2014/08/19/title/"/>
+    <updated>2014-08-19T17:01:26+08:00</updated>
+    <id>http://mawenying.github.io/blog/2014/08/19/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
