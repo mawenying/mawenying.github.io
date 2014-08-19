@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://mawenying.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 文武人生
+subtitle: 感悟,技术,分享,测试
+author: 马文英
 simple_search: https://www.google.com/search
-description:
+description: 一点感悟,感悟人生
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
