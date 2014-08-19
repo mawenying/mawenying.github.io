@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[文武人生]]></title>
   <link href="http://mawenying.github.io/atom.xml" rel="self"/>
   <link href="http://mawenying.github.io/"/>
-  <updated>2014-08-19T16:05:05+08:00</updated>
+  <updated>2014-08-19T16:38:53+08:00</updated>
   <id>http://mawenying.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[马文英]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
